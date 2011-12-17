@@ -1,0 +1,6 @@
+FILES
+Makefile
+VERSION
+example.scm
+syslog.sld
+syslog.stub
